@@ -5,7 +5,11 @@
 .scannerwork\
 .sonar
 *.sonar_lock
+
 #build output generated
 *.class
 target\
 classes\
+gradlew
+gradlew.bat
+
