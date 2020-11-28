@@ -1,0 +1,11 @@
+# idea specific files
+.idea
+
+#sonar specific files
+.scannerwork\
+.sonar
+*.sonar_lock
+#build output generated
+*.class
+target\
+classes\
